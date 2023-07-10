@@ -1,0 +1,86 @@
+{
+  "Name": "Sergey Shytikov",
+  "Role": "Frontend Developer",
+  "Contact_Info": {
+    "Email": "sergeyshytikov@gmail.com",
+    "LinkedIn": "https://www.linkedin.com/in/srgstkv/",
+    "Phone": "+48572503638",
+    "Address": "Wroclaw, Poland"
+  },
+  "Professional_Experience": {
+    "Company1": {
+      "Title": "WIX.com",
+      "Role1": {
+        "Title": "Frontend Developer",
+        "Location": "Krakow, PL (remote/part-time)",
+        "Timeline": "Jun 2022 - present",
+        "Accomplishments": [
+          "I contributed to our team's first-place finish in the regional Wix-wide hackathon. Collaborating as a frontend developer, we developed an app utilizing OpenAI API, React, and WebAPI. The app generated product descriptions based on user-provided characteristics, resulting in revenue growth exceeding $120 million upon implementation for millions of users.",
+          "Optimized prompt testing for the GPT model by creating a user-friendly tool using React, the internal component library, and React Hook Form. This achievement significantly improved prompt quality and efficiency, leading to streamlined model responses and an enhanced user experience.",
+          "Implemented an effective git-based system and streamlined proposal evaluation on GitHub, resulting in enhanced internal documentation for the team. This measure improved collaboration, efficiency, and knowledge sharing, fostering smoother workflows and enabling seamless tracking of changes."
+        ]
+      },
+      "Role2": {
+        "Title": "Data Labeling Specialist / Tech Lead",
+        "Location": "Kyiv, UA; Krakow, PL",
+        "Timeline": "Jun 2020 - present",
+        "Accomplishments": [
+          "Data Labeling and Analysis: Participated in the implementation of more than 50 different projects, providing services to support the development and deployment of AI models. I labeled data that was used to train over 80 models that are now in production for millions of users.",
+          "Tool Development and Optimization: I proposed specific features for the internal data labeling tool, which resulted in a 15% increase in labeling speed and improved the efficiency and productivity of the data labeling team. Collaborated with the software development team to prioritize and implement these enhancements, ensuring seamless integration with existing systems and workflows. ",
+          "Quality Control and Maintenance: Worked closely with the data science group to ensure the quality and integrity of the data used for AI projects. Implemented robust quality control measures, including regular checks and audits on the labeled data and data maintenance processes to ensure data accuracy and relevancy over time.",
+          "Collaboration and Communication: I collaborated with other teams, such as software development, QA, and data science, to ensure that the labeled data met the requirements and specifications of the AI projects. I also communicated effectively with stakeholders and provided insights and recommendations for the improvement of AI projects based on the labeled data."
+        ]
+      }
+    },
+    "Company2": {
+      "Title": "Ring",
+      "Role1": {
+        "Title": "Data Operator",
+        "Location": "Kyiv, UA",
+        "Timeline": "Jan 2019 - May 2020",
+        "Accomplishments": [
+          "Achieved a remarkable 20% increase in data markup accuracy by analyzing data for object and pattern detection. Created curated data sets for neural network training, implementing an improved role assignment and verification algorithm.",
+          "Supported the data science group with detailed reports based on meticulously analyzed and labeled data, facilitating informed decision-making processes.",
+          "Collaborated seamlessly with QA and Software Development teams to ensure the quality and integrity of data for AI projects.",
+          "Provided valuable insights and recommendations to enhance AI projects, fostering effective communication with the data science group."
+        ]
+      }
+    }
+  },
+  "Education": {
+    "University": "Yaroslav Mudryi National Law University",
+    "Degree": "Master's degree in Law",
+    "Location": "Kharkiv, UA",
+    "Timeline": "2012 -2016",
+    "Additional courses": [
+      "Kottans Frontend course",
+      "freeCodeCamp"
+    ]
+  },
+  "Skills&Interests": {
+    "Technical": [
+      "JavaScript",
+      "NodeJS",
+      "React",
+      "TypeScript",
+      "WebAPI",
+      "HTML5",
+      "CSS3",
+      "git"
+    ],
+    "Interests": [
+      "Theatre",
+      "Computer Science",
+      "Art",
+      "Hiking",
+      "Snowboarding",
+      "Arm-wrestling"
+    ],
+    "Languages": [
+      "English",
+      "Ukrainian",
+      "German(a1)",
+      "Polish(a2)"
+    ]
+  }
+}

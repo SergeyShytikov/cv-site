@@ -1,6 +1,9 @@
 import Image from 'next/image';
 import styles from './page.module.css';
+import getCvData from '@/pages/api/request';
 
+const data = getCvData()
+console.log(data)
 export default function Home() {
   return (
     <main className={styles.main}>
